@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/billyhkim/websocket-chat-play/issues"
   },
-  "homepage": "https://github.com/billyhkim/websocket-chat-play#readme"
+  "homepage": "https://github.com/billyhkim/websocket-chat-play#readme",
+  "dependencies": {
+    "ws": "^7.1.2"
+  }
 }

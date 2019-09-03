@@ -1,0 +1,15 @@
+.container-message {
+  border-top: 1px solid black;
+  display: flex;
+}
+
+.container-message .name {
+  font-weight: bold;
+  width: 20%;
+  text-align: left;
+}
+
+.container-message .message {
+  width: 80%;
+  text-align: right;
+}

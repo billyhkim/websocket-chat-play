@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/billyhkim/websocket-chat-play#readme",
   "dependencies": {
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   }
 }
